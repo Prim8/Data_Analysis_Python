@@ -10,6 +10,8 @@ The above **.ipynb** files will display the **raw IPython notebook**. Clicking o
 
 [BabyNames_CB.ipynb](http://nbviewer.ipython.org/github/Prim8/Data_Analysis_Python/blob/master/BabyNames_CB.ipynb?create=1)
 
+[College_admission.ipynb](http://nbviewer.ipython.org/github/Prim8/Data_Analysis_Python/blob/master/College_admission.ipynb)
+
 [Linear_regression_two_methods.ipynb](http://nbviewer.ipython.org/github/Prim8/Data_Analysis_Python/blob/master/Linear_regression_two_methods.ipynb?create=1)
 
 [Logs.ipynb](http://nbviewer.ipython.org/github/Prim8/Data_Analysis_Python/blob/master/Logs.ipynb?create=1)
